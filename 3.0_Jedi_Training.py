@@ -17,7 +17,7 @@
 
 
 # 5. Good Star Wars joke: "May the mass times acceleration be with you!" because F=ma. 
-#    Ask the user for mass and acceleration and then print out the Force on one line and "Get it?" on the next. (1pt)
+#    Ask the user for mass and  and then print out the Force on one line and "Get it?" on the next. (1pt)
 
 '''
 6. TEMPERATURE PROGRAM (5pts)
